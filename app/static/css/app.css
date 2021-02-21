@@ -1,3 +1,25 @@
+*{
+    list-style:none
+ }
+
 body {
     padding-top: 5rem;
 }
+
+.form-group{
+    font-size: 15px;
+    font-weight:bold;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div{
+    width:400px;
+   
+}
+button {
+    border: none;
+    margin-top: 2px;
+    color: #ffffff;
+  }
